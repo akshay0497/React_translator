@@ -5,7 +5,7 @@ import Languages from './languages'
 
 // import component
 import { ReactTransliterate } from "react-transliterate";
-//import "react-transliterate/dist/index.css";
+import "react-transliterate/dist/index.css";
 
 // Material Ui input component
 import Input from "@material-ui/core/Input";
